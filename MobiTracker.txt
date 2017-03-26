@@ -1,1 +1,6 @@
-HTTP request
+<HTTP>
+<Tittle></Tittle>
+
+<Body> this is a test: one in the way</Body>
+<a href="/text.txt /a>
+</HTTP>
